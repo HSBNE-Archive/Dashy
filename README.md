@@ -17,3 +17,6 @@ Aquire the Xero credentials from @jhogendorn. Update config.js with credentials.
 ## More reading
 
 Check out https://github.com/fabiocaseri/dashing-js for more information.
+
+## Chat
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/HSBNE/Dashy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
